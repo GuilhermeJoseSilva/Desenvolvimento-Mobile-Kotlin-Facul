@@ -1,0 +1,75 @@
+Primeiro dia
+
+Linguagem Kotlin
+Android Studio
+Orientação a Objetos 
+Criação App(CRUD)
+
+Desenvolvimento App:
+
+	-- Possui particularidades únicas que diferem bastante do desenvolvimento para desktop e web
+	-- É essencial que os desenvolvedores entendam essas diferenças para criar apps eficientes, responsivos e agradáveis ao usuário
+	-- Ter em mente que o App não interage somente com usuário mas sim, prioritariamente, com a própria máquina
+	
+Espaço Limitado de tela
+	-- Layout responsivo
+	-- Usabilidade
+	-- Design simples e intuitivo
+
+Animações e Transições de Tela
+	-- Feedback Visual
+	-- Transições suaves
+	-- Desempenhos
+	
+Prioridade das ações do dispositivo
+	-- O sistema operacional pode interroper o aplicativo a qualquer momento para priorizar chamadas telefonicas, notficações ou outras ações do dispositivos
+	-- Ciclo de vida do App
+	
+Gerenciamento de Recursos
+	-- Os desenvolvedores devem gerenciar corretamente os recursos(como a câmera ou o GPS) para evitar consumo excessivo de bateria e memória
+	
+Conectividade Intermitente
+	-- Modo Offline/Online
+	-- Sincronização de dados
+
+Consumo de bateria e performace
+	-- Otmização de Código
+		-- Assincronicidade
+		-- Execução em segundo plano
+	-- Uso Eficiente de Sensores e Serviços
+
+Permissões e Segurança
+	-- Gerenciamento de Permissões
+	-- Segurança de dados
+	
+Diversidade de Dispositivos
+	-- Compatibilidade
+	-- Fragmentação
+		-- Diferentes dispositivos com diferentes versões do S.O.
+
+1) Programação Orientada a objetos
+2) Objeto é uma unidade de dados que armazena informações relevantes para a aplicação e funções para manipular esses dados
+3) versionamento dos fontes (GIT)
+4) Especificidades do ambiente móvel
+	-- Ambiente com grandes restrições de usabilidade
+	-- Exige criatividade máxima
+	-- A máquina tem prioridade na interação
+	
+5)Code Review
+	-- Processo periódico de revisão de código
+
+6) Offline First pattern
+	-- Visa garantir que uma aplicação funcione bem mesmo quando não há conexão com a internet e que a sincronia de dados utilize o mínimo possível de banda.
+
+7) Ir Além do simples PORT de aplicativos de outras plataformas
+	-- Programar mobile ao invés de transcrever aplicativos
+	
+8) Acessebilidade
+	-- Dispositivos mobile são a extensão do corpo humano
+
+9) Ferramenta Leve
+	-- Há muitas limitações de usabilidade, recursos e processamento
+
+10) Usabilidade não pode ser ignorada.
+	-- Eu diria que a usabilidade deve ser priorizada.
+	
