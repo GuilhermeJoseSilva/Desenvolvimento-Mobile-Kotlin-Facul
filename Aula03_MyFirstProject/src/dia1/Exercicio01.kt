@@ -1,4 +1,4 @@
-
+package dia1
     fun main() {
         var precoOriginal: Double = 0.00;
         var porcentagem: Double = 0.00;

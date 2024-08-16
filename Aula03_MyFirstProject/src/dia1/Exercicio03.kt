@@ -1,3 +1,5 @@
+package dia1
+
 fun main(){
     var distancia: Double;
     var cobustivel: Double;
@@ -13,7 +15,7 @@ fun main(){
                 do {
                     cobustivel = getValor("Digite o valor do combustivel em litros: ")
 
-                }while (!isNumeroInteiro(cobustivel)||cobustivel<=0)
+                }while (!isNumeroInteiro(cobustivel) ||cobustivel<=0)
 
             mediaConsumo = distancia/cobustivel;
             println("A médiade consumo de combustivel é %.2f km/l".format(mediaConsumo));

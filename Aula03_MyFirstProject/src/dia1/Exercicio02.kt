@@ -1,3 +1,5 @@
+package dia1
+
 fun main() {
     print("Digite uma frase: ");
     val frase = readLine()!!;
